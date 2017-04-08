@@ -3,8 +3,6 @@ JSONFieldExtractor4J
 
 Does your Java project has problem dealing with JSON , but does not need the whole JSON information instead focusing some known fields? This module aims to support Java projects for easy , fast , safe way of accessing certain fields in JSON.
 
-This is not meant to cast JSON to POJO, but aim to support this feature in the future as a convenience.
-
 
 Use Case
 -------------
@@ -21,3 +19,4 @@ Feature Roadmap
  - Externalization of extraction properties
  
  
+ This is not meant to cast JSON to POJO, but aim to support this feature in the future as a convenience.
